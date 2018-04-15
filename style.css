@@ -1,0 +1,17 @@
+p{
+    color: royalblue;
+    position: relative;
+}
+
+p::before{
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
+
+p::after{
+    content: '';
+    position: absolute;
+}

@@ -1,0 +1,78 @@
+html{
+    font-family: 'Cardo', serif;
+    color: #1e1e1e;
+}
+
+.travel-h1{
+    opacity: 1;
+    font-size: 46px;
+    line-height: 57px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.travel-h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 34px;
+    line-height: 42px;
+}
+
+.travel-h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    line-height: 34px;
+}
+
+.travel-p{
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+
+.travel-h3-italic{
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    line-height: 34px;
+}
+
+.gray{
+    fill: #9b9b9b;
+}
+
+.pink{
+    fill: #ffe3e3;
+}
+
+.black{
+    fill: #1e1e1e;
+}
+
+.container{
+    width: 1080px;
+    display: block;
+    padding-top: 100px;
+    margin: 0 auto;
+}
+
+.travel-nav-text{
+    font-family: 'Montserrat', sans-serif;
+    color: #1e1e1e;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline;
+    float: right;
+    margin-left: 100px;
+}
+
+li a {
+    text-decoration: none;
+}
