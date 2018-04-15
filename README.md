@@ -1,1 +1,2 @@
-# frontedn-training
+# frontend-training
+ travel blog application
